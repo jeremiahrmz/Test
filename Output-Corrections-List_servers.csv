@@ -1,0 +1,13 @@
+Server Name,Primary IP Address,Corrections needed
+ntnx-22sh6m130341-a-cvm,20.200.25.150,Remove - Possibly decommissioned
+ntnx-22sh6m130341-b-cvm,20.200.25.151,Remove - Possibly decommissioned
+GCABIGIQ1P,20.300.25.3,Remove - Possibly decommissioned
+GCABIGIQ2P,20.300.25.4,Remove - Possibly decommissioned
+GCACSPC1P,20.300.40.26,Remove - Possibly decommissioned
+VVSANU10P,20.3.122.14,Remove - Possibly decommissioned
+VVSANU11P,20.3.122.15,Remove - Possibly decommissioned
+CT-SoCA-04,20.3.101.101,Remove - Possibly decommissioned
+GCDFWNUIAM01,20.3.122.100,Remove - Possibly decommissioned
+GCDFWNUIAM02,20.3.122.100,Remove - Possibly decommissioned
+ABOARSA1P,20.64.100.184,Remove - Possibly decommissioned
+ABOARSA2P,20.64.101.11,Remove - Possibly decommissioned

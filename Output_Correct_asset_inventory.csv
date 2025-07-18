@@ -1,0 +1,101 @@
+NormalizedName,Asset_Type,Primary_IP,OS_Type_Version,Role_Description,In_AD,In_Servers,In_Workstations,In_IP_Tracker,In_Scanner
+GCDFWWDC1P,Unknown,20.300.40.252,Windows Server 2019 Datacenter,,True,False,False,False,False
+DFWWDC1P,Unknown,20.200.40.252,Windows Server 2019 Datacenter,,True,False,False,False,False
+SOFTWARE-DLOXT0,Unknown,,Windows 7 Professional,,True,False,False,False,False
+DFWCAL00504,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL00507,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL01575,Unknown,20.7.10.116,Windows 10 Enterprise,,True,False,False,False,False
+VDIACC02,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+SCO,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL02495,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+VDIACCTOOLSLYNC,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+TESTENS1T,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+TESTENS2T,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+GC2012TEMPLATE,Unknown,,Windows Server 2012 R2 Datacenter,,True,False,False,False,False
+WIN2016TEMPLATE,Unknown,,Windows Server 2016 Datacenter,,True,False,False,False,False
+DFWCAL04551,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL04255,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL04639,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL03819,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL04730,Unknown,20.9.40.27,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL04029,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWSCCM2P,Unknown,20.200.40.228,Windows Server 2016 Datacenter,,True,False,False,False,False
+DFWCAL01430,Unknown,20.9.40.200,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL01660,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02492,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWSCSQL4P,Unknown,20.200.40.234,Windows Server 2016 Datacenter,,True,False,False,False,False
+GCDFWVMVC1DR,Unknown,20.300.40.200,unknown,,True,False,False,False,False
+DFWCAL02572,Unknown,20.9.65.24,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL03393,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL02885,Unknown,20.9.40.39,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02481,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL02359,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL02883,Unknown,20.9.40.69,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL01288,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02888,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL03021,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02622,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+WIN7X64-SP1-PC,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL03460,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL02676,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL04124,Unknown,20.9.65.50,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02407,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL02614,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02328,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL01440,Unknown,20.9.40.104,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL01431,Unknown,,Windows 10 Enterprise 2016 LTSB,,True,False,False,False,False
+DFWCAL02763,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02887,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL02929,Unknown,,Windows 7 Enterprise,,True,False,False,False,False
+DFWCAL04745,Unknown,20.9.66.4,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL04192,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+DFWBLUE5P,Unknown,,Windows 10 Pro for Workstations,,True,False,False,False,False
+DFWCAL06702,Unknown,20.200.128.76,Windows 10 Enterprise,,True,False,False,False,False
+DFWCAL03658,Unknown,,Windows 10 Enterprise,,True,False,False,False,False
+NTNX-22SH6M130341-A-CVM,Server,20.200.25.150,Google CVM SCO Unix,Google cloud applicance - nan,False,True,False,False,False
+NTNX-22SH6M130341-B-CVM,Server,20.200.25.151,Google CVM SCO Unix,Google cloud applicance - nan,False,True,False,False,False
+GCABIGIQ1P,Server,20.300.25.3,CentOS 4/5 (64-bit),F5 (Virtual Appliance) Management - Manages all F5 devices,False,True,False,False,False
+GCABIGIQ2P,Server,20.300.25.4,CentOS 4/5 (64-bit),F5 (Virtual Appliance) Management - Manages all F5 devices,False,True,False,False,False
+GCACSPC1P,Server,20.300.40.26,CentOS Linux 7,CQPC Collector  - Collects Data from Cisco Devices,False,True,False,False,False
+VVSANU10P,Server,20.3.122.14,Centos OS nan,Hadoop Cluster - OHS Cluster,False,True,False,False,False
+VVSANU11P,Server,20.3.122.15,Centos OS nan,Hadoop Cluster - OHS Cluster,False,True,False,False,False
+CT-SOCA-04,Server,20.3.101.101,Oracle Linux 8,Google Gateway Appliance - nan,False,True,False,False,False
+GCDFWNUIAM01,Server,20.3.122.100,nan nan,Haddop Application block - nan,False,True,False,False,False
+GCDFWNUIAM02,Server,20.3.122.100,nan nan,Haddop Application block - nan,False,True,False,False,False
+ABOARSA1P,Server,20.64.100.184,7.7 nan,VDI - joe.smith,False,True,False,False,False
+ABOARSA2P,Server,20.64.101.11,7.7 nan,VDI - joe.smith,False,True,False,False,False
+DFWCAL07553,Workstation,,10.0.19045.5237,,False,False,True,False,False
+DFWCAL01416,Workstation,,10.0.19045.5237,,False,False,True,False,False
+DFWCAL01421,Workstation,,10.0.19045.3930,,False,False,True,False,False
+DFWCAL01530,Workstation,,10.0.19045.5237,,False,False,True,False,False
+DFWCAL02973,Workstation,,10.0.19045.5237,,False,False,True,False,False
+DFWCAL02775,Workstation,,10.0.19045.5237,,False,False,True,False,False
+DFWCAL03443,Workstation,,10.0.19045.5237,,False,False,True,False,False
+DFWCAL03144,Workstation,,10.0.22000.2195,,False,False,True,False,False
+DFWCAL03612,Workstation,,10.0.18045.5131,,False,False,True,False,False
+DFWCAL03597,Workstation,,10.0.18352.720,,False,False,True,False,False
+DFWCAL03241,Workstation,,,,False,False,True,False,False
+DFWCAL04835,Workstation,,10.0.19045.5237,,False,False,True,False,False
+,Other Networked Device,20.200.36.1,,,False,False,False,True,False
+DFWRARITAN1P,Other Networked Device,20.200.36.5,,,False,False,False,True,False
+HP C6000-OA1,Other Networked Device,20.200.36.10,,,False,False,False,True,False
+HP C6000-OA2,Other Networked Device,20.200.36.11,,,False,False,False,True,False
+HPC2000OA3RETIRED,Other Networked Device,20.200.36.12,,,False,False,False,True,False
+HPC2000TESTLAB,Other Networked Device,20.200.36.14,,,False,False,False,True,False
+C6000 BAY 1,Other Networked Device,20.200.36.21,,,False,False,False,True,False
+C6000 BAY 2,Other Networked Device,20.200.36.22,,,False,False,False,True,False
+C6000 BAY 3,Other Networked Device,20.200.36.23,,,False,False,False,True,False
+C6000 BAY 4,Other Networked Device,20.200.36.24,,,False,False,False,True,False
+LPSRCJ8OAS1T,Other Networked Device,20.3.120.44,Red Hat Enterprise Linux 8,,False,False,False,False,True
+FG2SLPS86FIN12P,Other Networked Device,"20.3.114.121,12.31.11.74",Red Hat Enterprise Linux 8,,False,False,False,False,True
+VJ2SLPS86PS2P,Other Networked Device,"20.3.114.189,12.31.11.82",Red Hat Enterprise Linux 8,,False,False,False,False,True
+GCDFWWCRL1P,Other Networked Device,20.300.40.129,Microsoft Windows Server 2019 Datacenter (1809 Build 17763.6659) 64-Bit,,False,False,False,False,True
+VJCFWTS2P,Other Networked Device,20.3.121.2,Microsoft Windows Server 2019 Datacenter (1809 Build 17763.6659) 64-Bit,,False,False,False,False,True
+GPLDFWCSATW1P,Other Networked Device,20.3.114.179,Microsoft Windows Server 2016 Datacenter (1607 Build 14393.7515) 64-Bit,,False,False,False,False,True
+20,Other Networked Device,20.3.100.231,EulerOS / Ubuntu / Fedora / Tiny Core Linux / Linux 3.x / IBM / FortiSOAR / F5 Networks Big-IP,,False,False,False,False,True
+TEMPLATERHEL9PLN,Other Networked Device,20.3.114.161,Linux 2.6,,False,False,False,False,True
+TSTIANIDSTARE,Other Networked Device,20.3.118.64,F5 BIG-IP,,False,False,False,False,True
+RHEL09-BASE,Other Networked Device,20.3.114.22,Red Hat Enterprise Linux 9,,False,False,False,False,True
+GPCSRH8ODI4P,Other Networked Device,20.3.114.139,Red Hat Enterprise Linux 8.9,,False,False,False,False,True
+VPCSRH9ODI3P,Other Networked Device,20.3.114.138,Red Hat Enterprise Linux 8.10,,False,False,False,False,True
+RHEL08-BASE,Other Networked Device,20.3.114.21,Red Hat Enterprise Linux 8.13,,False,False,False,False,True
